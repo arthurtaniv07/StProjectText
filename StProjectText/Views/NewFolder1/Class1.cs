@@ -7,5 +7,6 @@ namespace StProjectText.Views.NewFolder1
 {
     public class Class1
     {
+
     }
 }
