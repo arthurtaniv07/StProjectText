@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StProjectText.Views.NewFolder1
 {
-    public class Class1
+    public class Class111
     {
 
     }
